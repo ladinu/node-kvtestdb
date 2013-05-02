@@ -1,0 +1,30 @@
+{
+  "name": "kvtestdb",
+  "version": "0.0.0",
+  "description": "Simple key-value database with plugable backends for testing/modeling purposes for REST applications",
+  "main": "index.js",
+  "devDependencies": {
+    "tap": "~0.4.0"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ladinu/node-kvtestdb.git"
+  },
+  "keywords": [
+    "rest",
+    "crud database",
+    "rest database",
+    "test database",
+    "testdb",
+    "crud",
+    "modeling crud"
+  ],
+  "author": {
+    "name": "Ladinu Chandrasinghe",
+    "email": "ladinu@gmail.com"
+  },
+  "license": "MIT"
+}
