@@ -1,5 +1,5 @@
 ## kvtestdb
-This is a database for testing/modeling REST applications.
+This is a database for mocking REST applications.
 
 ## Install
 Don't install yet :D
